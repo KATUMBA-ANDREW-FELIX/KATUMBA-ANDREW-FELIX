@@ -43,6 +43,8 @@ Looking for help and collaboration on **business scaling using Data Science** ac
 ![Top Repo]()
 PRIVATE 
 
+PERSONAL WEBSITE
+![Persoanl website].(https://katumba-andrew-felix.github.io/).
 💰 **Support Me**  
 [Buy Me A Coffee](https://www.buymeacoffee.com/yourusername) ← add your real link if you have one, or remove this section
 
