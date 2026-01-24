@@ -33,7 +33,7 @@ Looking for help and collaboration on **business scaling using Data Science** ac
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KATUMBA-ANDREW-FELIX&layout=compact&theme=radical)
 
 🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KATUMBA-ANDREW-FELIX&theme=radical)
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=KATUMBA-ANDREW-FELIX&theme=radical)
 
 ✍️ **Random Dev Quote**  
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
