@@ -40,7 +40,8 @@ Looking for help and collaboration on **business scaling using Data Science** ac
 
 🔝 **Top Contributed Repo**  
 <!-- Replace YOUR-TOP-REPO with the name of one of your best repos -->
-![Top Repo](https://github.com/KATUMBA-ANDREW-FELIX/riton-properties-uganda)
+![Top Repo]()
+PRIVATE 
 
 💰 **Support Me**  
 [Buy Me A Coffee](https://www.buymeacoffee.com/yourusername) ← add your real link if you have one, or remove this section
