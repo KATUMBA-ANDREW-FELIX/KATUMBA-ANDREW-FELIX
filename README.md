@@ -2,7 +2,7 @@
 
 💫 **About Me**  
 I am a student passionate about **AI** and **Data Science**.  
-Currently working on full-stack development using **Python**, **React**, **Vite**, and HTML/CSS baselines.  
+Currently working on full-stack development using **Python**, **React**, **Vite**, and HTML/CSS baselines with aid of the Certifications of PROMPT ENGINEERING.  
 Looking for help and collaboration on **business scaling using Data Science** across fields like finance, automotive, health, and business.
 
 🌐 **Socials**  
