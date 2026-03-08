@@ -2,13 +2,13 @@
 
 💫 **About Me**  
 I am a student passionate about **AI** and **Data Science**.  
-Currently working on full-stack development using **Python**, **React**, **Vite**, and HTML/CSS baselines with aid of the Certifications of PROMPT ENGINEERING.  
+Currently working on full-stack development using **Python**, **React**, **Vite**, and HTML/CSS baselines and pursuing online studies in DATA SCIENCE AND MACHINE LEARNING FOR BUSINESS AND SCIENCE.  
 Looking for help and collaboration on **business scaling using Data Science** across fields like finance, automotive, health, and business.
 
 🌐 **Socials**  
-• [Facebook](https://facebook.com/yourusername) ← replace with your real link  
-• [LinkedIn](https://linkedin.com/in/yourusername) ← replace with your real link  
-• [X / Twitter](https://x.com/Alexanderlixy) ← added your X handle
+• [Facebook](https://www.facebook.com/humblefx123) 
+• [LinkedIn](https://ug.linkedin.com/in/katumba-andrew-felix-039a50356)  
+• [X / Twitter](https://x.com/Alexanderlixy)
 
 💻 **Tech Stack**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
