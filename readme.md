@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>I am a student passionate about AI and Data Science.<br>Currently working on full-stack development using Python, React, Vite, and HTML/CSS baselines and pursuing online studies in DATA SCIENCE AND MACHINE LEARNING FOR BUSINESS AND SCIENCE.<br>Looking for help and collaboration on business scaling using Data Science across fields like finance, automotive, health, and business.
+💫 About Me<br>I am a student passionate about AI and Full-stack Data Science.<br>Currently working on full-stack development using Python, React, Vite, Postgressql, docker and HTML/CSS baselines and pursuing online studies in DATA SCIENCE AND MACHINE LEARNING FOR BUSINESS AND SCIENCE.<br>Looking for help and collaboration on business scaling using Data Science across fields like finance, automotive, health, manufacturing, infrastructure and tech business.
 
 
 ## 🌐 Socials:
